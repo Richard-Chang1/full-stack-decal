@@ -1,1 +1,3 @@
-# full-stack-decal
+# My Project
+
+This is my GitHub repo for fullstacks decal.
